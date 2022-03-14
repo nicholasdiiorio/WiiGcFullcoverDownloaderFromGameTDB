@@ -2,7 +2,7 @@
 
 This is a small tool to download Wii And GameCube fullcover for USBLoaderGX.
 
-For the folder: disc, cover3d and cover a zip can already be downloaded from https://www.gametdb.com/Wii/Downloads.
+For the folder: disc, cover3d and cover, a zip can be downloaded from https://www.gametdb.com/Wii/Downloads.
 
 But for some reason we cannont get a zip for the full cover so I made this tool.
 
